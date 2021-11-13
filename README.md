@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vincent
+- I've been interested in embedded Linux for a few years now
+- 🌱 I’m currently learning go langauage
